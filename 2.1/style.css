@@ -5,11 +5,7 @@
 .header__container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  justify-content: center;
 }
 .header__logo {
   width: 20rem;
-}
-.header__title {
-  align-self: center;
 }
